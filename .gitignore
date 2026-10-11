@@ -178,7 +178,7 @@ dmypy.json
 .pyre/
 
 # Rough Notes
-z_Rough_Notes_Codes/
+.a_Rough_Notes_Codes/
 
 # pytype static type analyzer
 .pytype/
